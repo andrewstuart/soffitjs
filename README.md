@@ -4,9 +4,10 @@
 ## Steps to integrate to portal
 
 1. Deploy the soffit portal code update
-  a. Build and install [soffit](https://github.com/drewwills/Soffit) to your local m2 cache
-  b. Cherry-pick/merge/whatever [Drew Wills' soffit branch](https://github.com/drewwills/uportal/tree/add-soffit)
-  c. Build/deploy portal wherever you'd like to test
+  1. Build and install [soffit](/drewwills/Soffit) to your local m2 cache
+  2. Cherry-pick/merge/whatever [Drew Wills' soffit branch](/drewwills/uportal/tree/add-soffit)
+    - Also can be seen at [this PR](/jasig/uPortal/pull/665)
+  3. Build/deploy portal wherever you'd like to test
 2. Manage Portlets
 
 ### Import
