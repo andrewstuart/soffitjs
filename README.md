@@ -14,6 +14,6 @@
 6. Add portlet preference org.apereo.portlet.soffit.connector.SoffitConnectorController.serviceUrl : \<node_url_and_port\>
   - This will *probably* be fine as http://localhost:3000/ unless you're running the portal and this code on different machines
 7. Publish as usual
-8. Navigate to /uPortal/p/\<your_portlet_fname\>
+8. Navigate to `/uPortal/p/<your_portlet_fname>`
 9. ?
 10. PROFIT!
