@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/andrewstuart/soffitjs/issues"
   },
-  "homepage": "https://github.com/andrewstuart/soffitjs#readme"
+  "homepage": "https://github.com/andrewstuart/soffitjs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0"
+  }
 }
