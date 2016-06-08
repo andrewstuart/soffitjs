@@ -13,12 +13,14 @@
 ### Import
 
 (cont.)
+
 3. Modify data in the included xml definition file (`soffit-test-one.portlet-definition.xml`)
 4. Import using the Admin import/export feature (or your preferred import method)
 
 ### Manual
 
 (cont.)
+
 3. Register New Portlet
 4. Portlet (Adapter for JSR-168 and JSR-286 Portlets)
 5. /uPortal > Soffit Connector
